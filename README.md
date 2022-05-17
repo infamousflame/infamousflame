@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krishna276
 - 👀 I’m interested in Coding and Computer Science.
-- 🌱 I’m currently learning Programming in Python, C/C++ and Java.
+- 🌱 I’m currently learning Programming in Python, C/C++, Java and JS.
 - 💞️ I’m looking to collaborate on nothing... yet!
 - 📫 How to reach me?   This GitHub account.
 
