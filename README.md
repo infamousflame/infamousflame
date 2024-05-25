@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krishna276
+- 👋 Hi, I’m @infamousflame
 - 👀 I’m interested in Coding and Computer Science.
 - 🌱 I’m currently learning Programming in Python, C/C++, Java and JS.
 - 💞️ I’m looking to collaborate on nothing... yet!
