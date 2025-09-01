@@ -1,10 +1,28 @@
-- 👋 Hi, I’m Krishna (@infamousflame)
-- 👀 I’m interested in Computer Science and other related fields, like Mathematics.
-- 🌱 I’m currently learning Programming in a bunch of languages, but I'm most confident in Python and C.
-- 💞️ I’m looking to collaborate on something easy, I'm still learning open-source
-- 📫 How to reach me?   However we started communicating in the first place - likely this GitHub account.
+# Hi, I'm Krishna 👋
 
-<!---
-infamousflame/infamousflame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a student passionate about **Cyber Security** and **Artificial Intelligence** (AI).  
+Currently learning and experimenting with new tech skills!
+
+🌐 **Personal website coming soon!**  
+*(I might build one over the summer.)*
+
+## 🚀 Current Interests
+- Cyber Security
+- Artificial Intelligence & Machine Learning
+- Open Source Projects
+
+## 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infamousflame&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infamousflame&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=infamousflame)
+
+## 🎯 Learning Goals
+- Hands-on cyber security projects
+- AI/ML fundamentals & applications
+- Building my personal website
+
+---
+
+*Let's connect and collaborate!*
+
