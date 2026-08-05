@@ -8,8 +8,8 @@ Currently learning and experimenting with new tech skills!
 
 ## 🚀 Current Interests
 - Cyber Security
+- Quantum Computing
 - Artificial Intelligence & Machine Learning
-- Open Source
 
 ## 🎯 Learning Goals
 - Hands-on cyber security projects
