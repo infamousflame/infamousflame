@@ -1,6 +1,6 @@
 # Hi, I'm Krishna 👋
 
-I'm a student passionate about **Cyber Security** and **Artificial Intelligence** (AI).  
+I'm a student passionate about **Cyber Security**, **Quantum Computing** and **Artificial Intelligence** (AI).  
 Currently learning and experimenting with new tech skills!
 
 🌐 **Personal website coming soon!**  
